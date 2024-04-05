@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "image": "kalilinux/kali-rolling",
   "hostRequirements": {
     "cpus": 4
   },
